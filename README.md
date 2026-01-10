@@ -1,4 +1,4 @@
-\# Predicting Wikipedia Science Article Quality with Machine Learning
+### Predicting Wikipedia Science Article Quality with Machine Learning
 
 
 
@@ -10,31 +10,29 @@ The goal is not to maximize predictive accuracy, but to understand which objecti
 
 
 
-\## Contents
+#### Contents
 
-\- `notebooks/Final\_Wikipedia\_Pipeline.ipynb`  
+* `notebooks/Final\_Wikipedia\_Pipeline.ipynb`  
 
 &nbsp; End-to-end research notebook covering data collection, feature engineering, supervised and unsupervised modeling, and interpretation.
 
 
 
-\- `src/`, `data/`, `figures/`  
+* `src/`, `data/`, `figures/`  
 
 &nbsp; Placeholder directories for future refactoring and modularization.
 
 
 
-\## Scope
+#### Scope
 
-\- ~17,800 science-related Wikipedia articles
-
-\- Metadata-based features only (length, references, structure, etc.)
-
-\- Emphasis on interpretability and editorial actionability
+* ~17,800 science-related Wikipedia articles
+* Metadata-based features only (length, references, structure, etc.)
+* Emphasis on interpretability and editorial actionability
 
 
 
-\## Status
+#### Status
 
 Exploratory research notebook.  
 
