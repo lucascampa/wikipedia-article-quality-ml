@@ -12,7 +12,7 @@ The goal is not to maximize predictive accuracy, but to understand which objecti
 
 #### Contents
 
-* `notebooks/Final\_Wikipedia\_Pipeline.ipynb`  
+* `notebooks/Final Wikipedia Pipeline.ipynb`  
 
 &nbsp; End-to-end research notebook covering data collection, feature engineering, supervised and unsupervised modeling, and interpretation.
 
