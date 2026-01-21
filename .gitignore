@@ -217,6 +217,7 @@ __pycache__/
 data/raw/
 data/processed/
 *.csv
+!data/processed/wikipedia_dataset.csv
 
 # OS junk
 .DS_Store
