@@ -215,9 +215,9 @@ __pycache__/
 
 # Data artifacts
 data/raw/
-data/processed/
 *.csv
 !data/processed/wikipedia_dataset.csv
+!data/processed/.gitkeep
 
 # OS junk
 .DS_Store
