@@ -214,7 +214,6 @@ __pycache__/
 *.pyc
 
 # Data artifacts
-*.csv
 !data/processed/wikipedia_dataset.csv
 !data/processed/.gitkeep
 
