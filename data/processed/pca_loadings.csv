@@ -1,0 +1,110 @@
+,PC1,PC2
+content_length,0.110775484578816,-0.07995077237082655
+num_links,0.04610620656099451,-0.018463944628761924
+num_sections,0.09994510531064983,-0.08182774121202663
+num_references,0.10086644683664658,-0.06393265269451334
+num_categories,0.11980207063400179,-0.006013784734967657
+summary_length,0.06456826688991259,-0.07320625854753211
+avg_sentence_length,0.03936123215488827,-0.059509773613787176
+last_revision_date,0.041994144468633074,-0.05256843695485068
+num_languages,0.07575836855787849,-0.05635922005745404
+meta_All Wikipedia articles in need of updating,0.02889364949626145,-0.017377542529965616
+meta_All Wikipedia articles needing clarification,0.009667942579702592,-0.004424203986203848
+meta_All Wikipedia articles written in American English,0.02761201449294968,-0.027528754308293626
+meta_All Wikipedia articles written in British English,0.025493492149199784,-0.0218434258359377
+meta_All accuracy disputes,0.018377029036266763,-0.008005544502405142
+meta_All articles containing potentially dated statements,0.050987888869072906,-0.029620594008497435
+meta_All articles covered by WikiProject Wikify,0.025950946089208893,0.00794832796635731
+meta_All articles lacking in-text citations,-0.010099796050336856,-0.007837283922235386
+meta_All articles lacking reliable references,0.03140646841579498,-0.015083454054051178
+meta_All articles needing additional references,0.005252921441118346,-0.026682101194347493
+meta_All articles that are too technical,0.0026182449269435133,-0.006441282258685776
+meta_All articles that may contain original research,0.009904121832826535,-0.008231839773656982
+meta_All articles to be expanded,0.01634533302065787,-0.013073585911355422
+meta_All articles with dead external links,0.08481407209228395,0.018534841142276857
+meta_All articles with failed verification,0.02297261700459235,-0.009754263817233405
+meta_All articles with incomplete citations,0.020981475305814127,-0.006273153336423096
+meta_All articles with specifically marked weasel-worded phrases,0.034764856860509584,-0.0005858002656463704
+meta_All articles with style issues,0.008943010251070417,-0.007244301927589229
+meta_All articles with unsourced statements,0.04263980762735814,-0.02651996727405522
+meta_All articles with vague or ambiguous time,0.023486201763403127,-0.011891891974252295
+meta_All pages needing cleanup,0.01993181659154612,-0.0001593607854381015
+meta_All pages needing factual verification,0.018599289896404147,-0.00982153150265426
+meta_All stub articles,-0.025563081451335127,0.04873654278167211
+meta_Articles containing Ancient Greek (to 1453)-language text,0.03622968971531776,-0.027468225007424362
+meta_Articles containing Arabic-language text,0.025963195628612445,-0.011757580559691908
+meta_Articles containing Chinese-language text,0.026362140121272786,-0.014375623170288128
+meta_Articles containing French-language text,0.042645769778473556,-0.01746939958436874
+meta_Articles containing German-language text,0.03936213756752439,-0.017169356867468087
+meta_Articles containing Greek-language text,0.022163918769547934,-0.0107368839963326
+meta_Articles containing Italian-language text,0.03537759360435099,-0.0006030879193737918
+meta_Articles containing Japanese-language text,0.022192833222837847,-0.01069550375265471
+meta_Articles containing Latin-language text,0.04971913906184239,-0.027109092362629685
+meta_Articles containing Spanish-language text,0.0359400247280133,-0.004765415411558162
+meta_Articles containing unverified chemical infoboxes,-0.009061738329236568,0.1838699704176801
+meta_Articles containing video clips,0.030396848220078217,-0.025733602766230962
+meta_Articles with changed CASNo identifier,0.025882956804733872,0.10258916541073125
+meta_Articles with changed EBI identifier,0.0017333313578613817,0.05450107784458344
+meta_Articles with excerpts,0.024381317437181336,-0.025820254045367905
+meta_Articles with hAudio microformats,0.023563796463547407,-0.018089179532174263
+meta_Articles with multiple maintenance issues,0.007452875487182762,-0.006324598268507957
+meta_Articles with permanently dead external links,0.0894023885971535,0.027947634267386053
+meta_Articles with short description,0.013429029058601476,-0.008108626937977639
+meta_Articles with unsourced statements from August 2025,0.01347522375776946,-0.001231287355561405
+meta_Articles with unsourced statements from January 2025,0.010945080205506802,0.0011334468973037092
+meta_Articles without EBI source,-0.014063458300942397,0.1421309416726286
+meta_Articles without InChI source,-0.009365154969038057,0.10137643367404783
+meta_Articles without KEGG source,-0.01304446677170121,0.17438134960388912
+meta_Articles without UNII source,-0.0088530900550357,0.09344694448746146
+meta_CS1 French-language sources (fr),0.03850347324635784,-0.017258468596391796
+meta_CS1 German-language sources (de),0.04211424821516999,-0.009757301509519593
+meta_CS1 Italian-language sources (it),0.027429470809255632,-0.015552606638781231
+meta_CS1 Russian-language sources (ru),0.028298361676640477,-0.0047679955091795585
+meta_CS1 Spanish-language sources (es),0.03360584287409931,-0.01663063701337967
+meta_CS1 errors: ISBN date,0.03213100768143443,-0.013127277596683449
+meta_CS1 errors: missing periodical,0.012413351048706058,-0.006415497192601095
+meta_CS1 errors: periodical ignored,0.014166169312528254,-0.006262476869675461
+meta_CS1 maint: DOI inactive as of July 2025,0.02272853839343236,-0.01278951711514912
+meta_CS1 maint: archived copy as title,0.01316872396032079,-0.0011213415199210982
+meta_CS1 maint: bot: original URL status unknown,0.0171928905407735,-0.01080277829330417
+meta_CS1 maint: location missing publisher,0.01635232181264547,-0.01365419529229077
+meta_CS1 maint: multiple names: authors list,0.01812954903449441,-0.006843281785886427
+meta_CS1 maint: numeric names: authors list,0.020575315629040827,-0.013347388088556934
+meta_CS1 maint: others,0.008548498458724837,-0.003292043139701029
+meta_CS1 maint: publisher location,0.016199603266452978,-0.007152067918562656
+meta_CS1 maint: work parameter with ISBN,0.026439408268370705,-0.022542010043763418
+meta_CS1: long volume value,0.03880092123655245,-0.01550065899939663
+meta_CS1: unfit URL,0.04366216088224444,-0.02537681070297876
+meta_CS1:Vancouver names with accept markup,0.014482607809879729,0.002576217230999245
+meta_Chembox having GHS data,8.0847873560544e-05,0.12901751059854563
+meta_Chembox image size set,-0.004438262096968565,0.12148325701586707
+meta_Chemical articles with multiple CAS registry numbers,0.01383294740552961,0.11434662666796921
+meta_Chemical articles with multiple compound IDs,0.012317690798214697,0.1378044707192512
+meta_Commons category link from Wikidata,0.015075712713278355,-0.014952378336860847
+meta_Commons category link is locally defined,0.0062858555521243835,-0.009016637237121112
+meta_Commons category link is on Wikidata,0.02200270427618011,-0.019185985910820633
+meta_Commons link from Wikidata,0.021349540050349853,-0.014141673757754977
+meta_Coordinates on Wikidata,0.028110971990597592,-0.023922975601279862
+meta_ECHA InfoCard ID from Wikidata,-0.004183745539781926,0.16481644170376963
+meta_Featured articles,0.03028243161225015,-0.02202871865966344
+meta_Good articles,0.03108648250370537,-0.018230320588072915
+meta_Multiple chemicals in an infobox that need indexing,0.013059140285554082,0.126912870148823
+meta_Pages displaying short descriptions of redirect targets via Module:Annotated link,0.013922203713378354,-0.018459219588527087
+meta_Pages including recorded pronunciations,0.060356461645063066,-0.011563294661818473
+meta_Pages using Sister project links with default search,0.03467174679382654,-0.028794306902428082
+meta_Pages using Sister project links with hidden wikidata,0.042446353113019766,-0.03146054604447443
+meta_Pages using gadget WikiMiniAtlas,0.028627239613529427,-0.025555548581016895
+meta_Pages using multiple image with auto scaled images,0.03778742941604907,-0.03133829117325401
+meta_Pages using sidebar with the child parameter,0.008157809673431242,-0.01454156124235952
+meta_Pages using the Phonos extension,0.06140530850206587,-0.012591190996666191
+meta_Pages with plain IPA,0.024446958955245367,-0.011779281770595831
+meta_Short description is different from Wikidata,0.010611575278948003,-0.09393469343235848
+meta_Short description matches Wikidata,-0.003764152060727709,0.10568197275816327
+meta_Source attribution,0.01729330163151899,-0.010107953845904377
+meta_Webarchive template wayback links,0.06334596713415577,-0.04477667305148498
+meta_Wikipedia articles incorporating a citation from the 1911 Encyclopaedia Britannica with Wikisource reference,0.035092750481165294,0.0005076665287139249
+meta_Wikipedia articles incorporating text from the 1911 Encyclopædia Britannica,0.027551700752236036,0.01635930080387083
+meta_Wikipedia indefinitely move-protected pages,0.04796710143950797,-0.03281575393534972
+meta_Wikipedia indefinitely semi-protected pages,0.04640435304294926,-0.032253463408099134
+meta_Wikipedia medicine articles ready to translate,0.014220824519441818,-0.0061439642761237775
+meta_Wikipedia pages semi-protected against vandalism,0.03375981325748039,-0.015183575708672457
